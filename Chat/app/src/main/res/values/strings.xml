@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothChat</string>
+
+
+    <string name="action_settings">Settings</string>
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+
+</resources>
